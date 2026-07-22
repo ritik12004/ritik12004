@@ -1,416 +1,171 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ritik Gujre</h1>
+<h3 align="center">Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:4C1D95&height=220&section=header&text=Ritik%20Gujre&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Python%20Engineering&descAlignY=58&descSize=18&descColor=C4B5FD"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Data+Systems;M.Tech+CSE+%40+DAVV+Indore;Machine+Learning+%7C+Python+%7C+SQL;Turning+Raw+Data+Into+Real+Decisions" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions;Building+Intelligent+Systems;Learning+Machine+Learning+%26+AI;Python+%7C+Data+Analytics+%7C+ML" alt="Typing SVG" />
+</p>
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/M.Tech-CSE%20%40%20DAVV%20Indore-6D28D9?style=flat-square&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/B.Tech-CSE%20%40%20SATI%20Vidisha-6D28D9?style=flat-square&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/📍-Indore,%20Madhya%20Pradesh-4C1D95?style=flat-square&labelColor=1e1033"/>
+### 🧠 About Me
 
-<br/><br/>
+Hi, I'm **Ritik Gujre** — currently pursuing my **Master of Technology in Computer Science & Engineering** from **Devi Ahilya Vishwavidyalaya (DAVV), Indore**. I recently completed my **Bachelor's degree in Computer Science & Engineering** from **Samrat Ashok Technological Institute, Vidisha**.
 
-<a href="mailto:ritik26cs103@satiengg.in"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1033"/></a>
-<a href="https://www.linkedin.com/in/ritikgujre/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1033"/></a>
-<a href="https://github.com/ritik12004"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1033"/></a>
+I'm based in **Indore, Madhya Pradesh, India**, and I'm deeply passionate about **Data Science, Machine Learning, and Artificial Intelligence**. What excites me most about this field is turning raw, messy data into something meaningful — cleaning it, exploring it, and building models that can actually predict, classify, and explain real-world outcomes.
 
-<br/><br/>
+Over time, I've worked on a range of ML projects — from prediction systems to recommendation engines — and each one has taught me something new about how data truly behaves. I believe good data science isn't just about building a model that works, but about understanding *why* it works and communicating that insight clearly.
 
-<img src="https://komarev.com/ghpvc/?username=ritik12004&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/ritik12004?style=flat-square&color=7c3aed&labelColor=1e1033&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/ritik12004?style=flat-square&color=7c3aed&labelColor=1e1033&label=STARS"/>
+I'm currently sharpening my skills in advanced ML techniques and model deployment, and I'm always open to learning, collaborating, and building projects that solve real problems.
 
-</div>
+- 🎓 Pursuing M.Tech in CSE at DAVV, Indore
+- 🎓 B.Tech in CSE from Samrat Ashok Technological Institute, Vidisha
+- 🌱 Currently exploring: Advanced Machine Learning & Model Deployment
+- 💡 Interested in: Predictive Modeling, Data Visualization, and Real-World AI Applications
+- 📍 Based in Indore, Madhya Pradesh, India
+- 📧 Email: ritik26cs103@satiengg.in
+- 💼 LinkedIn: [linkedin.com/in/ritikgujre](https://www.linkedin.com/in/ritikgujre/)
 
-<br/>
+---
 
-## ⟡ About
+### 📚 Core Concepts I Work With
 
-```
-class DataScientist:
-    def __init__(self):
-        self.name = "Ritik Gujre"
-        self.role = "Aspiring Data Scientist & ML Engineer"
-        self.education = "M.Tech CSE @ DAVV Indore | B.Tech CSE @ SATI Vidisha"
-        self.focus = ["Machine Learning", "Data Science", "Python Engineering"]
-        self.mindset = "insight-driven, model-first, detail-obsessed"
+**🔹 Data Science**
+Data Science is the field of extracting meaningful insights and knowledge from structured and unstructured data using statistics, programming, and domain expertise. It combines data cleaning, exploration, visualization, and modeling to help answer questions and support decision-making.
 
-    def philosophy(self):
-        return "A good model isn't one that just works — it's one you can explain."
-```
+**🔹 Artificial Intelligence (AI)**
+Artificial Intelligence is the broader science of building systems that can perform tasks which normally require human intelligence — such as reasoning, understanding language, recognizing patterns, and making decisions.
 
-I engineer solutions at the intersection of **software development and machine learning** — from cleaning raw datasets to deploying trained models behind real APIs. My work spans classification, regression, clustering, and deep learning architectures (ANN/CNN), backed by strong fundamentals in Python and SQL.
+**🔹 Machine Learning (ML)**
+Machine Learning is a subset of AI where systems learn patterns directly from data and improve their performance on a task over time, without being explicitly programmed for every rule. It is the core engine that powers most modern AI applications.
 
-I care about the full pipeline: data ingestion → feature engineering → model evaluation → deployment via **FastAPI** — not just notebook experiments.
+> 📌 In short: **Data Science** finds insights from data → **Machine Learning** builds models that learn from data → **AI** uses those models to act intelligently.
 
-**⟡ Open To:** Data Science / ML Engineer Roles · Research Collaborations · Open Source Contributions
+---
 
-<br/>
+### 🎓 Education
 
-## ⟡ Tech Stack
+| Degree | Institute | Location |
+|---|---|---|
+| M.Tech, Computer Science & Engineering | Devi Ahilya Vishwavidyalaya (DAVV) | Indore, Madhya Pradesh, India — *Present* |
+| B.Tech, Computer Science & Engineering | Samrat Ashok Technological Institute | Vidisha, Madhya Pradesh, India — *May 2026* |
 
-<div align="center">
+---
 
-**Languages**
+### 🛠️ Technical Skills
 
-<img src="https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/SQL-6D28D9?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1e1033"/>
+**Programming Languages:** Python, SQL
 
-**Machine Learning & Data Science**
+**AI/ML:** Classification, Regression, Clustering, ANN, CNN, NLP, Feature Engineering, Model Evaluation
 
-<img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Pandas-6D28D9?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Scikit--learn-6D28D9?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/TensorFlow-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Keras-6D28D9?style=for-the-badge&logo=keras&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Matplotlib-6D28D9?style=for-the-badge&logo=plotly&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Seaborn-6D28D9?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1033"/>
+**Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn
 
-**Backend & Databases**
+**API Development:** FastAPI (Model Serving & REST APIs)
 
-<img src="https://img.shields.io/badge/FastAPI-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/MySQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1033"/>
+**Tools & Platforms:** MySQL, Power BI, Excel, Jupyter Notebook, Google Colab, VS Code
 
-**Tools & Platforms**
+---
 
-<img src="https://img.shields.io/badge/Power%20BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Jupyter-6D28D9?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Google%20Colab-6D28D9?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/VS%20Code-6D28D9?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Excel-6D28D9?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=1e1033"/>
+### 🏆 Achievements & Certifications
 
-</div>
+- 🌍 **Global Rank 100** — TCS CodeVita Season 13 (Round 1) — *Jun 2026*
+- 🥇 **Top-100 Rank** — The CA Program, Techfest, IIT Bombay — *Nov 2025*
+- 🐍 **Python Skill Up** — GeeksforGeeks — *Nov 2024*
+- 📊 **Enterprise Data Science** — IBM — *Dec 2025*
 
-<br/>
+---
 
-## ⟡ AI / ML Expertise
+### 🤝 Position of Responsibility
 
-<div align="center">
+**National Service Scheme (NSS) — Advisor & Mentor | Newsletter** *(Apr 2024 – May 2026)*
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| **Classification** | ●●●●○ | Logistic Regression, Decision Trees, Random Forest |
-| **Regression** | ●●●●○ | Linear/Polynomial Regression, Price & Cost Prediction |
-| **Clustering** | ●●●○○ | K-Means, Customer/Data Segmentation |
-| **Deep Learning (ANN/CNN)** | ●●●○○ | Image recognition, Digit & Gesture recognition |
-| **NLP** | ●●●○○ | Text preprocessing, sentiment & emotion detection |
-| **Feature Engineering** | ●●●●○ | Handling nulls, encoding, scaling, outlier treatment |
-| **Model Evaluation** | ●●●●○ | Confusion Matrix, ROC-AUC, Cross-Validation |
-| **Model Deployment** | ●●●○○ | REST APIs via FastAPI |
+Served as NSS Volunteer, leading community initiatives including Blood Donation Camps, Cleanliness Drives, Tree Plantation, Health Awareness Camps, Voter Awareness Drives, and School Outreach Programs — positively impacting 50+ underprivileged children and local communities.
 
-</div>
+---
 
-<br/>
+### 📌 Featured Projects
 
-## ⟡ Featured Projects
+**🤖 Machine Learning / AI**
 
-<details>
-<summary><b>🎬 FLICKIQ — Movie Recommendation System</b></summary>
-<br/>
-
-A recommendation engine that suggests movies based on similarity between user preferences and content metadata.
-
-| Aspect | Detail |
+| Project | Description |
 |---|---|
-| **Stack** | Python, Pandas, Scikit-learn |
-| **Approach** | Content-based filtering & similarity scoring |
-| **Impact** | Personalized movie discovery experience |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/-FLICKIQ-Movie-Recommendation-System) |
+| 🎬 [FLICKIQ-Movie-Recommendation-System](https://github.com/ritik12004/-FLICKIQ-Movie-Recommendation-System) | Movie recommendation engine using ML-based similarity techniques |
+| 🛡️ [Insurance_Cost_Predictor](https://github.com/ritik12004/Insurance_Cost_Predictor) | Predicts medical insurance costs using regression models |
+| 👥 [IBM-HR-Analytics-Employee-Attrition](https://github.com/ritik12004/IBM-HR-Analytics-Employee-Attrition) | Predicts employee attrition using the IBM HR dataset |
+| 🚢 [Titanic-Survival-Prediction-System](https://github.com/ritik12004/ritik12004-Titanic-Survival-Prediction-System) | Classic ML classification model predicting Titanic survival |
+| ❤️ [Heart-Disease-Prediction](https://github.com/ritik12004/Heart-Disease-Prediction) | Predicts risk of heart disease using classification models |
+| ✋ [Hand_Gesture_Recognition](https://github.com/ritik12004/Hand_Gesture_Recognition) | Recognizes hand gestures using CNN/computer vision |
+| 🩺 [Diabetes-Prediction-app](https://github.com/ritik12004/-Diabetes-Prediction-app) | ML app to predict diabetes risk from health parameters |
+| 😊 [Emotion-Detector](https://github.com/ritik12004/Emotion-Detector-) | Detects human emotions from facial expressions using deep learning |
+| 🚗 [Car_price_predictore](https://github.com/ritik12004/Car_price_predictore) | Predicts used car prices using regression techniques |
+| 📈 [Sales-Forecasting-and-Demand-Intelligence-System](https://github.com/ritik12004/Sales-Forecasting-and-Demand-Intelligence-System) | Forecasts sales & demand trends using time-series/ML models |
+| 📊 [SalesForecastingRitikGujre](https://github.com/ritik12004/SalesForecastingRitikGujre) | Sales forecasting project using ML models |
+| 👔 [Employee-Attrition-Prediction](https://github.com/ritik12004/-Employee-Attrition-Prediction) | Predicts employee attrition using classification models |
+| 🏠 [HousePricePrediction](https://github.com/ritik12004/HousePricePrediction) | Predicts house prices using regression analysis |
+| 🔢 [Digit-Recognizer](https://github.com/ritik12004/-Digit-Recognizer-) | Handwritten digit recognition using CNN (deep learning) |
+| 😴 [Sleep-Health-Analyzer](https://github.com/ritik12004/Sleep-Health-Analyzer) | Analyzes sleep health patterns using data analytics |
+| 🤟 [SignBridge](https://github.com/ritik12004/SignBridge) | Sign language recognition/translation system |
 
-</details>
+**🐍 Python Development**
 
-<details>
-<summary><b>🩺 Insurance Cost Predictor</b></summary>
-<br/>
-
-Predicts medical insurance charges using regression models trained on demographic and health-related features.
-
-| Aspect | Detail |
+| Project | Description |
 |---|---|
-| **Stack** | Python, Scikit-learn, Pandas, NumPy |
-| **Model Type** | Regression |
-| **Impact** | Assists in estimating fair insurance premiums |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/Insurance_Cost_Predictor) |
-
-</details>
-
-<details>
-<summary><b>👥 IBM HR Analytics — Employee Attrition</b></summary>
-<br/>
-
-Predicts employee attrition risk using the IBM HR Analytics dataset, helping identify retention patterns.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Scikit-learn, Pandas |
-| **Model Type** | Classification |
-| **Impact** | Surfaces key drivers behind employee turnover |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/IBM-HR-Analytics-Employee-Attrition) |
-
-</details>
-
-<details>
-<summary><b>🚢 Titanic Survival Prediction System</b></summary>
-<br/>
-
-Classic ML classification problem predicting passenger survival using engineered features from the Titanic dataset.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Scikit-learn, Pandas |
-| **Model Type** | Classification |
-| **Impact** | Strong foundation project in feature engineering |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/ritik12004-Titanic-Survival-Prediction-System) |
-
-</details>
-
-<details>
-<summary><b>❤️ Heart Disease Prediction</b></summary>
-<br/>
-
-Predicts the likelihood of heart disease using patient clinical parameters and classification algorithms.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Scikit-learn, Pandas |
-| **Model Type** | Classification |
-| **Impact** | Early-risk screening support tool |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/Heart-Disease-Prediction) |
-
-</details>
-
-<details>
-<summary><b>✋ Hand Gesture Recognition</b></summary>
-<br/>
-
-Recognizes hand gestures in real time using computer vision and deep learning (CNN-based).
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, TensorFlow/Keras, OpenCV |
-| **Model Type** | CNN |
-| **Impact** | Foundation for gesture-based interfaces |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/Hand_Gesture_Recognition) |
-
-</details>
-
-<details>
-<summary><b>😊 Emotion Detector</b></summary>
-<br/>
-
-Detects human emotions from facial expressions using a deep learning image classification pipeline.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, TensorFlow/Keras |
-| **Model Type** | CNN |
-| **Impact** | Real-time facial emotion recognition |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/Emotion-Detector-) |
-
-</details>
-
-<details>
-<summary><b>📈 Sales Forecasting & Demand Intelligence System</b></summary>
-<br/>
-
-Forecasts future sales and demand trends to support inventory and business planning decisions.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Pandas, Scikit-learn |
-| **Model Type** | Time-Series / Regression |
-| **Impact** | Data-driven demand planning |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/Sales-Forecasting-and-Demand-Intelligence-System) |
-
-</details>
-
-<details>
-<summary><b>🏠 House Price Prediction</b></summary>
-<br/>
-
-Predicts housing prices based on property features using regression modeling.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Scikit-learn, Pandas |
-| **Model Type** | Regression |
-| **Impact** | Assists in property price estimation |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/HousePricePrediction) |
-
-</details>
-
-<details>
-<summary><b>🔢 Digit Recognizer</b></summary>
-<br/>
-
-Recognizes handwritten digits using a Convolutional Neural Network trained on image data.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, TensorFlow/Keras |
-| **Model Type** | CNN |
-| **Impact** | Core computer vision fundamentals project |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/-Digit-Recognizer-) |
-
-</details>
-
-<details>
-<summary><b>🎫 Ticket Booking & Management System</b></summary>
-<br/>
-
-A Python-based system with separate user and admin functionalities for event creation, booking, and management.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, MySQL |
-| **Scope** | Full CRUD system with role separation |
-| **Impact** | Efficient event & ticket lifecycle management |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/Ticket-booking-and-management-system) |
-
-</details>
-
-<details>
-<summary><b>🏦 Bank Management System</b></summary>
-<br/>
-
-A Python-based banking system handling core account operations end-to-end.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python |
-| **Scope** | Account creation, transactions, record management |
-| **Impact** | Simulates real-world banking workflows |
-| **Repository** | [View on GitHub](https://github.com/ritik12004/Bank-Management-System) |
-
-</details>
-
-<br/>
-
-## ⟡ Experience & Leadership
-
-**National Service Scheme (NSS) — Advisor & Mentor | Newsletter**
-`Apr 2024 – May 2026`
-
-Led and coordinated multiple community-impact initiatives as an NSS Volunteer, combining organizational leadership with grassroots outreach.
-
-- Organized Blood Donation Camps, Cleanliness Drives, and Tree Plantation programs
-- Conducted Health Awareness Camps and Voter Awareness Drives
-- Ran School Outreach Programs, positively impacting 50+ underprivileged children
-- Mentored fellow volunteers and contributed to the NSS newsletter
-
-`Leadership` `Community Impact` `Mentorship` `Event Coordination`
-
-<br/>
-
-## ⟡ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| 🌍 **Global Rank 100** | TCS CodeVita Season 13 (Round 1) — Jun 2026 |
-| 🥇 **Top-100 Rank** | The CA Program, Techfest, IIT Bombay — Nov 2025 |
-
-</div>
-
-<br/>
-
-## ⟡ Certifications
-
-<div align="center">
-
-**GeeksforGeeks**
-<img src="https://img.shields.io/badge/Python%20Skill%20Up-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white&labelColor=1e1033"/>
-
-**IBM**
-<img src="https://img.shields.io/badge/Enterprise%20Data%20Science-052FAD?style=flat-square&logo=ibm&logoColor=white&labelColor=1e1033"/>
-
-</div>
-
-<br/>
-
-## ⟡ GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ritik12004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik12004&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik12004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="50%"/>
-
-</div>
-
-<br/>
-
-## ⟡ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ritik12004&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
-
-<br/>
-
-## ⟡ Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritik12004&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=E9D5FF"/>
-
-</div>
-
-<br/>
-
-## ⟡ Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ritik12004/ritik12004/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br/>
-
-## ⟡ Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Advanced Machine Learning Techniques
-    - Model Deployment & MLOps Fundamentals
-  building:
-    - End-to-end ML pipelines with FastAPI
-    - Data-driven prediction & analytics systems
-  exploring:
-    - Deep Learning Architectures (CNN / NLP)
-    - Cloud-based Model Serving
-  open_to:
-    - Data Science / ML Engineer Roles
-    - Research & Open Source Collaboration
-```
-
-<br/>
-
-## ⟡ Connect
-
-<div align="center">
-
-<a href="mailto:ritik26cs103@satiengg.in"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1033"/></a>
-<a href="https://www.linkedin.com/in/ritikgujre/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1033"/></a>
-<a href="https://github.com/ritik12004"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1033"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<i>"A good model isn't one that just works — it's one you can explain."</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:6D28D9&height=120&section=footer"/>
-
-</div>
+| ❌⭕ [Tic-tac-toe-game](https://github.com/ritik12004/Tic-tac-toe-game) | Console-based two-player Tic Tac Toe with win/draw detection |
+| ✅ [To-Do-Game](https://github.com/ritik12004/To-Do-Game) | A gamified To-Do List app built with Python |
+| ⏰ [alarm_clock.py](https://github.com/ritik12004/alarm_clock.py) | Python alarm clock using datetime, time, and winsound |
+| 🎫 [Ticket-booking-and-management-system](https://github.com/ritik12004/Ticket-booking-and-management-system) | Ticket booking system with separate user & admin functionalities |
+| 🗂️ [File-handling-project](https://github.com/ritik12004/File-handling-project) | Demonstrates Python file handling — create, read, write, append, delete |
+| 🏦 [Bank-Management-System](https://github.com/ritik12004/Bank-Management-System) | Python-based banking system for account operations |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritik12004&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik12004&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik12004&layout=compact&theme=radical" width="50%" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritik12004&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C9A7&line=00C9A7&point=ffffff" width="90%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ritikgujre/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ritik12004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ritik26cs103@satiengg.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>"Data is the new oil, but insight is the fuel." 🚀</i></p>
